@@ -1,0 +1,1 @@
+camera = AxisWebCamera('http://wc2.dartmouth.edu');
